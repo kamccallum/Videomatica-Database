@@ -190,9 +190,9 @@ SA: Adaptations must be shared under the same terms.
 
 ## Contact
 
-Bryn Shaffer: bryn.m.shaffer@gmail.com
-Kyla McCallum: ky.mccall307@gmail.com
-Stephanie Hohn: hohn.steph@gmail.com
+Bryn Shaffer: bryn.m.shaffer@gmail.com <br>
+Kyla McCallum: ky.mccall307@gmail.com <br>
+Stephanie Hohn: hohn.steph@gmail.com <br>
 UBC iSchool: Tel 604 822 2404
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
